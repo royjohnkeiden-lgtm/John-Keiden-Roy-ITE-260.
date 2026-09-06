@@ -1,6 +1,6 @@
 #Border--
 print("=====================================")
-print("         Aling Masing SHOP")
+print("         John Keiden shop")
 print("=====================================")
 
 #Customer and Employees info
@@ -57,5 +57,5 @@ if payment <= total:
     print("Balik ka na lang!")
 
 print("=====================================")
-print("         Arigatōgozaimasu")
+print("         thank you for shopping")
 print("=====================================")
